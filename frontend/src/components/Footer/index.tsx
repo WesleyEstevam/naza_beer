@@ -5,9 +5,7 @@ export function Footer() {
 
   return (
     <Container>
-      <b>Equipe de desenvolvimento</b>
-      <p>Wesley Estevam Do Monte | Davi Martins Aguiar</p>
-      <p>Gean Cezar Moreira da Silva | Soter Caio Garcias Castro</p>
+      <b>© 2022 inCode</b>
     </Container>
   );
 }
